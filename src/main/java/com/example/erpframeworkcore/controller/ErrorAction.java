@@ -6,11 +6,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * ErrorAction
- *
  * @author liy贺兰沁焱-刘洪君
  * @version 1.0
  * 　 2018-03-22 22:41
- *
  */
 @Controller
 public class ErrorAction {
